@@ -2,13 +2,14 @@
     padding:30px;
     text-align: center;
     text-transform: uppercase;
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(133, 109, 236);
     border-bottom: 9px solid black;
+    color:white;
 
 }
 
 .header img{
     width:100%;
-    height:600px;
+    height:500px;
     object-fit:cover;
 }

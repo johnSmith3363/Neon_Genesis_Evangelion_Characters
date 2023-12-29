@@ -1,0 +1,5 @@
+<section class="character-container">
+    <img [src]="character.photo">
+    <p>{{character.name}}</p>
+    <a [routerLink]="['/details', character.id]">Details</a>
+</section>
